@@ -1,0 +1,7 @@
+{
+  "name": "Sensha Car Spa",
+  "description": "Premium automotive detailing and paint protection center offering high-end ceramic coating, PPF, and restorative services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
